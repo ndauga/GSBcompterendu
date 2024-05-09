@@ -1,0 +1,10 @@
+C:\Users\Oslo\source\repos\Projet GSB\Projet GSB\bin\Debug\Projet GSB.exe.config
+C:\Users\Oslo\source\repos\Projet GSB\Projet GSB\bin\Debug\Projet GSB.exe
+C:\Users\Oslo\source\repos\Projet GSB\Projet GSB\bin\Debug\Projet GSB.pdb
+C:\Users\Oslo\source\repos\Projet GSB\Projet GSB\obj\Debug\Projet GSB.csproj.AssemblyReference.cache
+C:\Users\Oslo\source\repos\Projet GSB\Projet GSB\obj\Debug\Projet_GSB.FrmAcceuil.resources
+C:\Users\Oslo\source\repos\Projet GSB\Projet GSB\obj\Debug\Projet_GSB.Properties.Resources.resources
+C:\Users\Oslo\source\repos\Projet GSB\Projet GSB\obj\Debug\Projet GSB.csproj.GenerateResource.cache
+C:\Users\Oslo\source\repos\Projet GSB\Projet GSB\obj\Debug\Projet GSB.csproj.CoreCompileInputs.cache
+C:\Users\Oslo\source\repos\Projet GSB\Projet GSB\obj\Debug\Projet GSB.exe
+C:\Users\Oslo\source\repos\Projet GSB\Projet GSB\obj\Debug\Projet GSB.pdb
